@@ -1,11 +1,10 @@
 # Air Minecraft
 
 <p align="center">
-  <img src="images/Minecraft.jpeg" alt="Air Minecraft" width="80%"/>
+  <img src="images/Minecraft.jpeg" alt="Air Minecraft" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/choucisan/AirMinecraft"><img src="https://img.shields.io/badge/GitHub-Air_Minecraft-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href=""><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
   <a href=""><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
   <a href=""><img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
@@ -150,7 +149,7 @@ See the official Luanti compilation guides:
 
 - [Compiling on Windows](https://github.com/luanti-org/luanti/blob/master/doc/compiling/windows.md)
 - [Compiling on GNU/Linux](https://github.com/luanti-org/luanti/blob/master/doc/compiling/linux.md)
-- [Compiling on macOS](https://github.com/luanti-org/luanti/blob/master/doc/compiling/macos.md) (detailed)
+- [Compiling on macOS](https://github.com/luanti-org/luanti/blob/master/doc/compiling/macos.md) 
 
 ### Start Drone Flight
 
@@ -205,7 +204,7 @@ AirMinecraft/
 - [ ] Integration with modern RL frameworks (Stable-Baselines3, RLlib, etc.)
 - [ ] Procedural environment generation for diverse and dynamic training scenarios
 - [ ] Distributed multi-instance training across GPU clusters
-- [ ] Pre-trained model zoo and benchmark leaderboard on Hugging Face
+
 
 ---
 
