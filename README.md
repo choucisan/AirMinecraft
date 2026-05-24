@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Air_Minecraft-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href=""><img src="https://img.shields.io/badge/Bilibili-demo-ff69b4?style=for-the-badge" alt="Hugging Face"></a>
+  <a href="https://github.com/choucisan/AirMinecraft"><img src="https://img.shields.io/badge/GitHub-Air_Minecraft-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href=""><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
   <a href=""><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
-  <a href=""><img src="https://img.shields.io/badge/Bilibili-Channel-00A1D6?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
+  <a href=""><img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
   <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html"><img src="https://img.shields.io/badge/License-LGPLv2.1%2B-blue.svg?style=for-the-badge" alt="License"></a>
 </p>
 
@@ -109,7 +108,7 @@ Air Minecraft is compatible with [ContentDB](https://content.luanti.org), giving
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/choucisan/AirMinecraft.git
 cd AirMinecraft
 
 # Install dependencies via Homebrew
@@ -196,7 +195,7 @@ AirMinecraft/
 - [x] HUD with telemetry, minimap, and navigation
 - [x] ContentDB compatibility
 
-### 后续环境搭建 — Online RL Training & Agent Environment
+### Phase 2 — Online RL Training & Agent Environment
 - [ ] **Visual RL Environment**: GPRO-style visual reinforcement learning interface with first-person camera observations as the primary input modality
 - [ ] Multi-agent drone training with shared and competing objectives
 - [ ] Configurable observation space (multi-view cameras, depth, telemetry, raycasting)
