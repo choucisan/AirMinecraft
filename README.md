@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
-  <a href=""><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
-  <a href=""><img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
+  <a href="https://choucisan.github.io/collections/airminecraft/"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/624aab39000000001000d3bc"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
+  <a href="https://www.bilibili.com/video/BV1Z6Gs6NEyH/"><img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
   <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html"><img src="https://img.shields.io/badge/License-LGPLv2.1%2B-blue.svg?style=for-the-badge" alt="License"></a>
 </p>
 
@@ -194,16 +194,25 @@ AirMinecraft/
 - [x] HUD with telemetry, minimap, and navigation
 - [x] ContentDB compatibility
 
-### Phase 2 — Online RL Training & Agent Environment
-- [ ] **Visual RL Environment**: GPRO-style visual reinforcement learning interface with first-person camera observations as the primary input modality
+### Phase 2 — Closed-Loop Training & Evaluation
+
+**Visual RL Environment**
+- [ ] GPRO-style visual reinforcement learning interface with first-person camera observations
 - [ ] Multi-agent drone training with shared and competing objectives
 - [ ] Configurable observation space (multi-view cameras, depth, telemetry, raycasting)
 - [ ] Flexible reward function API with compositional task definitions
 - [ ] Headless accelerated simulation mode for large-scale training
-- [ ] Real-time training and evaluation pipeline
 - [ ] Integration with modern RL frameworks (Stable-Baselines3, RLlib, etc.)
-- [ ] Procedural environment generation for diverse and dynamic training scenarios
+
+**VLA / WAM Closed-Loop Training & Evaluation**
+- [ ] VLA (Vision-Language-Action) closed-loop training with visual observation, language instruction, and environment feedback
+- [ ] WAM (World-Action Model) integration for learnable world dynamics and model-based planning
+- [ ] Standardized benchmark tasks and evaluation metrics (navigation, exploration, object tracking, instruction following)
+- [ ] Online rollout collection with real-time environment interaction
+- [ ] Multi-agent coordination and communication scenarios
+- [ ] Procedural environment generation for diverse training scenarios
 - [ ] Distributed multi-instance training across GPU clusters
+- [ ] Pre-trained model zoo and benchmark leaderboard on Hugging Face
 
 
 ---
