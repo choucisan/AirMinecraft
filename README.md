@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://choucisan.github.io/collections/airminecraft/"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/624aab39000000001000d3bc"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
+  <a href="https://www.xiaohongshu.com/explore/6a13ab6f000000000702d3f6?xsec_token=ABqxXntvO7sqiKi77OGrjveITsZV-SWLhtQGQS29q5vqY"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
   <a href="https://www.bilibili.com/video/BV1Z6Gs6NEyH/"><img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
   <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html"><img src="https://img.shields.io/badge/License-LGPLv2.1%2B-blue.svg?style=for-the-badge" alt="License"></a>
 </p>
